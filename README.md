@@ -12,8 +12,8 @@ Feature cleansing was performed for various columns, assigned data types to coup
 ### Data Visualization
 Data visualization with Matplotlib and Seaborn to interpret the pattern and trends in the data
 FINDINGS-
-Most famous restaurants chains in Bengaluru is 'Cafe Coffee Day'
-Graph for cost of restaurants with respect to locality
-Type of Restaurant with rating
-count of restaurants distributed in city
-Location wise ratings
+    Most famous restaurants chains in Bengaluru is 'Cafe Coffee Day'
+    Graph for cost of restaurants with respect to locality
+    Type of Restaurant with rating
+    count of restaurants distributed in city
+    Location wise ratings
