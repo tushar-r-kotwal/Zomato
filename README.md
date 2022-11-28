@@ -16,4 +16,4 @@ Most famous restaurants chains in Bengaluru is 'Cafe Coffee Day'
 Graph for cost of restaurants with respect to locality
 Type of Restaurant with rating
 count of restaurants distributed in city
-Location wise rating 
+Location wise ratings
