@@ -1,3 +1,4 @@
+### uploaded 2 files as of less computational power. 2 notebooks are uploaded for better n efficient use of model training part
 # Zomato Data Analysis and Model Training
 ### Getting the Data
 The data set was given to me by my trainer, it was a data scraped from Zomato's application for the purpose of project.
